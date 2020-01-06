@@ -1,0 +1,10 @@
+{
+    "name": "slim/slim-crud",
+    "description": "a basic rest api",
+    
+   
+    "require": {
+        "slim/slim": "^4.1",
+        "tuupola/slim-jwt-auth": "^3.4"
+    }
+}
